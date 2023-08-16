@@ -1,2 +1,2 @@
-worker: python3 -m NekoRobot
+worker: npm start
 ps:scale worker=1
